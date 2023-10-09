@@ -3,3 +3,4 @@
 !.gitignore
 !fast_K_means.py
 !hofstadter_conway.py
+!tensor_dot.py
